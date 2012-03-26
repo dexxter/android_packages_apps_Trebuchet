@@ -102,4 +102,77 @@
     <string name="folder_closed" msgid="3130534551370511932">"Klasör kapatıldı"</string>
     <string name="folder_renamed" msgid="781234745487414781">"Klasör %1$s olarak yeniden adlandırıldı"</string>
     <string name="folder_name_format" msgid="4513766553514769310">"Klasör: %1$s"</string>
+
+    <!-- Trebuchet -->
+    <string name="cancel_target_label">İptal</string>
+
+    <!--             -->
+    <!-- Preferences -->
+    <!--             -->
+    <string name="menu_preferences">Trebuchet Ayarları</string>
+    
+    <string name="preferences_title">Trebuchet Ayarları</string>
+    <!-- UI -->
+    <string name="preferences_interface_title">Arayüz</string>
+    <!-- Application -->
+    <string name="preferences_application_title">Uygulama</string>
+
+    <!-- UI -->
+    <!-- Homescreen -->
+    <string name="preferences_interface_homescreen_title">Ana Ekran</string>
+    <string name="preferences_interface_homescreen_general_category">Genel</string>
+    <string name="preferences_interface_homescreen_general_screens_title">Ana Ekranlar</string>
+    <string name="preferences_interface_homescreen_general_screens_summary">Ana Ekran Sayısı</string>
+    <string name="preferences_interface_homescreen_general_default_screen_title">Varsayılan Ekran</string>
+    <string name="preferences_interface_homescreen_general_default_screen_summary">Varsayılan Ekranı Seç</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_vertical_title">Dikey Dolgu</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_vertical_summary">Ana ekran ekstra dikey aralık</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_horizontal_title">Yatay Dolgu</string>
+    <string name="preferences_interface_homescreen_general_screen_padding_horizontal_summary">Ana ekran ekstra yatay aralık</string>
+    <string name="preferences_interface_homescreen_general_search_title">Arama çubuğu</string>
+    <string name="preferences_interface_homescreen_general_search_summary">Kalıcı arama çubuğunu etkinleştir</string>
+    <string name="preferences_interface_homescreen_general_resize_any_widget_title">Araçları yeniden boyutlandırma</string>
+    <string name="preferences_interface_homescreen_general_resize_any_widget_summary">Araçlar\'ın yeniden boyutlandırılmasına izin ver.Normal\'de aktif değildir.</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_title">Simge etiketlerini gizle</string>
+    <string name="preferences_interface_homescreen_general_hide_icon_labels_summary">Ana ekran simge etiketlerini gizle</string>
+    <string name="preferences_interface_homescreen_scrolling_category">Kaydırma</string>
+    <string name="preferences_interface_homescreen_scrolling_transition_effect_title">Geçiş efektleri</string>
+    <string name="preferences_interface_homescreen_scrolling_transition_effect_summary">Ana ekrandaki geçiş efektini ayarla</string>
+    <string name="preferences_interface_homescreen_scrolling_fade_adjacent_screens_title">Yan sayfaları soldur</string>
+    <string name="preferences_interface_homescreen_scrolling_fade_adjacent_screens_summary">Ana ekranda kaydırma yaparken yan sayfaları soldur</string>
+    <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_title">Duvar Kağıdı Kilitleme</string>
+    <string name="preferences_interface_homescreen_scrolling_scroll_wallpaper_summary">Ana ekranda kaydırma yaparken duvar kağıdını kilitlemek için kutucuğu boş bırakın</string>
+    <string name="preferences_interface_homescreen_indicator_category">Gösterge</string>
+    <string name="preferences_interface_homescreen_indicator_enable_title">Sayfa Göstergesi</string>
+    <string name="preferences_interface_homescreen_indicator_enable_summary">Hangi ekranda olduğumu sayfanın alt kısmında göster.</string>
+    <string name="preferences_interface_homescreen_indicator_fade_title">Göstergeyi Soldurma</string>
+    <string name="preferences_interface_homescreen_indicator_fade_summary">Sayfa değiştirdikten sonra göstergeyi soldur.</string>
+    <string name="preferences_interface_homescreen_indicator_background_title">Sabit Uygulama Bölücüsü</string>
+    <string name="preferences_interface_homescreen_indicator_background_summary">Alt simgelerin üstünde bölme çubuğunu göster</string>
+
+    <!-- Drawer -->
+    <string name="preferences_interface_drawer_title">Uygulama Ekranı</string>
+    <string name="preferences_interface_drawer_widgets_category">Araçlar</string>
+    <string name="preferences_interface_drawer_widgets_join_apps_title">Uygulama ve Araç Sayfaları</string>
+    <string name="preferences_interface_drawer_widgets_join_apps_summary">Sayfa değiştirirken ygulamalardan sonra araç ekranına otomatik geçiş yap</string>
+    <string name="preferences_interface_drawer_scrolling_category">Kaydırma</string>
+    <string name="preferences_interface_drawer_scrolling_transition_effect_title">Geçiş efektleri</string>
+    <string name="preferences_interface_drawer_scrolling_transition_effect_summary">Uygulama ekranındaki geçiş efektini ayarla.</string>
+    <string name="preferences_interface_drawer_scrolling_fade_adjacent_screens_title">Yan sayfaları soldur</string>
+    <string name="preferences_interface_drawer_scrolling_fade_adjacent_screens_summary">Uygulama ekranında kaydırma yaparken yan sayfaları soldur</string>
+    <string name="preferences_interface_drawer_indicator_category">Gösterge</string>
+    <string name="preferences_interface_drawer_indicator_enable_title">Sayfa Göstergesi</string>
+    <string name="preferences_interface_drawer_indicator_enable_summary">Hangi ekranda olduğumu sayfanın alt kısmında göster</string>
+    <string name="preferences_interface_drawer_indicator_fade_title">Göstergeyi Soldurma</string>
+    <string name="preferences_interface_drawer_indicator_fade_summary">Sayfa değiştirdikten sonra göstergeyi soldur</string>
+
+    <!-- Dock -->
+    <string name="preferences_interface_dock_title">Sabit Uygulama Bölümü</string>
+
+    <!-- Icons -->
+    <string name="preferences_interface_icons_title">Simgeler</string>
+
+    <!-- General -->
+    <string name="preferences_interface_general_title">Genel</string>
+    <string name="preferences_interface_general_orientation_title">Ekranı Otomatik Çevir</string>
 </resources>
